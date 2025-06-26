@@ -1,5 +1,6 @@
 {
   "requiredSdkVersion": "~0.0.84",
   "name": "TourPlugin",
-  "javascriptEntrypointUrl": "TourPlugin.js"
+  "javascriptEntrypointUrl": "TourPlugin.js",
+  "localesBaseUrl": "TourPlugin_locales"
 }
