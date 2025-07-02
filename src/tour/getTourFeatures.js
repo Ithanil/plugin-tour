@@ -289,7 +289,6 @@ const getTourFeatures = (
         },
         text: intl.formatMessage(intlMessages.screenshare),
         buttons: [
-          getKnowMoreButton(intl, URLS?.screenshare),
           getBackButton(intl, tour),
           getNextButton(intl, tour),
         ],
@@ -380,7 +379,6 @@ const getTourFeatures = (
         title: intl.formatMessage(intlMessages.whiteboardTitle),
         text: intl.formatMessage(intlMessages.whiteboardToolbar),
         buttons: [
-          getKnowMoreButton(intl, URLS?.whiteboard),
           getBackButton(intl, tour),
           getNextButton(intl, tour),
         ],
